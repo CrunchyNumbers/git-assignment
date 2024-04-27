@@ -39,3 +39,7 @@ GitHub is an online platform that provides hosting for Git repositories and addi
 
 f. What does git diff do?
 'git diff' shows the differences between the working directory and the index, or between the working directory and a specified branch or commit. It allows you to see changes made to files, such as additions, deletions, and modifications. It can also compare different branches, commits, or files.
+
+
+g. What is the main branch?
+The main branch (formerly known as the master branch in most projects) is the primary branch in a Git repository. It is where the stable version of the code resides and is typically the default branch for new repositories. Development is often done on feature or topic branches and then merged back into the main branch once the code is reviewed and tested.

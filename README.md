@@ -10,6 +10,7 @@ A pull request is a request to merge changes from one branch into another branch
 c. How do I open up a pull request?
 To open a pull request on GitHub:
 1. Push your changes to a new branch on GitHub:
+     git push origin your-branch-name
 2. Go to the GitHub repository in your browser.
 3. Click on the Pull requests tab.
 4. Click the New pull request button.

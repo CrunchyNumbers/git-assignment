@@ -18,3 +18,15 @@ To open a pull request on GitHub:
 6. Add a title and description for the pull request.
 7. You can assign reviewers, labels, or milestones if desired.
 8. Click the Create pull request button to open the pull request.
+
+
+d. Give me a step-by-step guide on how to add someone to your repository.
+To add someone as a collaborator to your repository:
+1. Go to the repository on GitHub.
+2. Click on the Settings tab.
+3. In the left sidebar, click on Manage access.
+4. Click the Invite a collaborator button.
+5. Enter the GitHub username of the person you want to add.
+6. Choose the appropriate permission level for the collaborator (e.g., read, write, or admin).
+7. Click Add to send an invitation to the user.
+The user will need to accept the invitation before they are added as a collaborator.

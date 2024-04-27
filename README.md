@@ -35,3 +35,7 @@ The user will need to accept the invitation before they are added as a collabora
 e. What is the difference between Git and GitHub?
 Git is a distributed version control system that allows you to track changes in your codebase, collaborate with others, and manage multiple versions of your project.
 GitHub is an online platform that provides hosting for Git repositories and additional collaboration tools such as pull requests, issue tracking, and project management features. It serves as a central hub for repositories and makes it easy to share and collaborate on projects with others.
+
+
+f. What does git diff do?
+'git diff' shows the differences between the working directory and the index, or between the working directory and a specified branch or commit. It allows you to see changes made to files, such as additions, deletions, and modifications. It can also compare different branches, commits, or files.
